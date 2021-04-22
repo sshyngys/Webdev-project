@@ -1,0 +1,57 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "name": "MacBook",
+      "description": "операционная система: macOS",
+      "imageUrl": "https://evrika.com/upload/iblock/a85/Apple_A1466_MQD32RU_A_3.jpg",
+      "price": 590.000
+    },
+    {
+      "id": 2,
+      "name": "MacBook",
+      "description": "диагональ экрана: 13.3 дюйм",
+      "imageUrl": "https://vernik.me/wp-content/uploads/2019/12/eceffc.jpg",
+      "price": 500.000
+    },
+    {
+      "id": 3,
+      "name": "MacBook",
+      "description": "разрешение экрана: 2560x1600",
+      "imageUrl": "https://cloud.istyles.com/images/Skins/MB13/800/MB13-SUNBEACON.jpg",
+      "price": 550.000
+    },
+    {
+      "id": 4,
+      "name": "MacBook",
+      "description": "процессор: Apple M1",
+      "imageUrl": "http://g03.a.alicdn.com/kf/HTB1guEgJpXXXXanaXXXq6xXFXXXY/206306965/HTB1guEgJpXXXXanaXXXq6xXFXXXY.jpg",
+      "price": 520.000
+    },
+    {
+      "id": 5,
+      "name": "MacBook",
+      "description": "размер оперативной памяти: 8 ГБ",
+      "imageUrl": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/4b6ab1988bb0ea46bcef290c45378ec5.jpg",
+      "price": 510.000
+    }
+  ],
+  "cart": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
